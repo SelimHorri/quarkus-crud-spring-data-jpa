@@ -2,7 +2,7 @@ package com.selimhorri.pack.service;
 
 import java.util.List;
 
-import com.selimhorri.pack.entity.Employee;
+import com.selimhorri.pack.model.entity.Employee;
 
 public interface EmployeeService {
 	

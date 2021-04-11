@@ -1,4 +1,4 @@
-package com.selimhorri.pack.entity;
+package com.selimhorri.pack.model.entity;
 
 import java.time.LocalDate;
 

@@ -7,7 +7,7 @@ import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 import javax.transaction.Transactional;
 
-import com.selimhorri.pack.entity.Employee;
+import com.selimhorri.pack.model.entity.Employee;
 import com.selimhorri.pack.repo.EmployeeRepository;
 import com.selimhorri.pack.service.EmployeeService;
 

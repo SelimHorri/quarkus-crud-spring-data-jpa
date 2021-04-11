@@ -12,7 +12,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.selimhorri.pack.entity.Employee;
+import com.selimhorri.pack.model.entity.Employee;
 import com.selimhorri.pack.service.EmployeeService;
 
 @Path("/app/api/employees")
