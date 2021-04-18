@@ -1,0 +1,6 @@
+version: '3'
+services:
+  quarkus-crud-spring-data-jpa-container:
+    image: quarkus-crud-spring-data-jpa:2.0
+    ports:
+      - 8080:8080
